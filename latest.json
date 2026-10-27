@@ -1,0 +1,11 @@
+{
+  "version": "0.1.8",
+  "notes": "- Release v0.1.8\n- Overlay TITrack price history on live prices; pin table headers to top",
+  "pub_date": "2026-10-27T19:20:43.923Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZnVyanJaRTVETnZwUmpGRlNqQkxFckxFb0l1dTBvK1h4TUtEcnJvcFJaK0RmdkNpQzdWcVg5RkVRRGJyRmpYZkFrMWcrVWZaSHNuNnBtSDNEYklKYStYUlVvVTNhMFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTI4ODQzCWZpbGU6UG92ZXJ0eSBJbmZpbml0ZV8wLjEuOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjgKVDRSMFFXMnpCN0d3aVlIN3Mxay92ZnA0dnB3SFVsdG5XMUdpUmNxZUdvSk0rTVV3b29DY1RZdVAwaWVEd0NQaklNTDljTXFBY3VkRDZmalU4azNTREE9PQo=",
+      "url": "https://raw.githubusercontent.com/emiflake/poverty-infinite-releases/main/PovertyInfinite_0.1.8_x64-setup.exe"
+    }
+  }
+}
